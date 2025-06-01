@@ -5,6 +5,7 @@ format:
     page-layout: full
     toc: false
 ---
+<div style="color:#212529; font-weight:500">
 
 ## वनहक्क व स्थानिक नियोजन
 
