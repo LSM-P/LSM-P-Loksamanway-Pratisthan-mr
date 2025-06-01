@@ -1,33 +1,33 @@
 ---
-title: ""
+title: "Our Mission"
 format:
   html:
     page-layout: full
     toc: false
 ---
 
-## वनहक्क व स्थानिक नियोजन
+## Forest Rights and Local Planning
 
-आम्ही वन व्यवस्थापन मजबूत करण्यासाठी, ग्रामसभा संस्था बळकट करण्यासाठी, आणि 10 वर्षांच्या सामूहिक वनहक्क (CFR - Community Forest Rights) सूक्ष्मयोजना तयार करण्यासाठी विविध हितधारकांबरोबर विस्तृत बैठकांचे आयोजन करतो.
+We conduct extensive stakeholder meetings to support forest governance, strengthen Gram Sabha institutions, and prepare 10-year CFR micro-plans.
 
-<img src="cfr stakeholder meeting.JPG" style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
-
----
-
-## शेती व स्थानिक निर्णय प्रक्रियेत महिलांचा सहभाग
-
-आम्ही आदिवासी महिलांमध्ये शेती, निर्णयप्रक्रिया आणि स्थानिक स्वशासन याबाबत चर्चा, नेतृत्व आणि सहभाग वाढवण्यावर भर देतो.
-
-<img src="women discission group.jpg" style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
+<img src="cfr stakeholder meeting.JPG" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 ---
 
-## शाश्वत उपजिविका आणि पर्यावरणपूरक शेती
+## Women's Participation in Planning and Governance
 
-आम्ही पारंपरिक पद्धतींवर आधारित जैवविविध शेतीस प्रोत्साहन देतो आणि मूल्यवर्धित उत्पादनाच्या माध्यमातून टिकाऊ उपजिविकेची संधी निर्माण करतो.
+We foster discussion and leadership among Adivasi women around farming, decision-making, and local self-governance.
 
-<img src="man holding turmeric.jpg" style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
+<img src="women discission group.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
 
 ---
 
-🌱 *हक्क, सन्मान आणि शाश्वततेसाठी — सप्तपुड्याच्या दऱ्यांमधून चालत आहोत.*
+## Sustainable Livelihoods and Agro-Ecology
+
+We promote value-added, sustainable agriculture rooted in traditional practices and biodiversity.
+
+<img src="man holding turmeric.jpg" style="max-width: 100%; height: auto; display: block; margin: 1rem auto;" />
+
+---
+
+🌱 *Rights. Dignity. Sustainability. From the valleys of Satpuda.*

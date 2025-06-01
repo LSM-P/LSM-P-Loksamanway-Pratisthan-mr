@@ -3,26 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "लोकसमन्वय प्रतिष्ठान"
-  site-url: "https://lsm-p.github.io/Loksamanway-Pratisthan-mr"
+  title: "Loksamanway Pratishthan"
+  site-url: "/"
   navbar:
     logo: logo.jpg
     right:
       - href: index.qmd
-        text: HOME
+        text: Home
       - href: mission.qmd
-        text: आमचे ध्येय
+        text: Our Mission
       - href: history.qmd
-        text: इतिहास
+        text: History
       - href: work.qmd
-        text: आमचे काम
+        text: Our Work
       - href: people.qmd
-        text: लोक
+        text: People
       - href: contact.qmd
-        text: संपर्क
-      - text: "English 🌍"
-        href: https://lsm-p.github.io/Loksamanway-Pratisthan/
-
+        text: Contact
+      - text: "मराठी 🌍"
+        href: https://lsm-p.github.io/Loksamanway-Pratisthan-mr/
 html-head:
   - link:
       rel: stylesheet
