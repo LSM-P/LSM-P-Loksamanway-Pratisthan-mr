@@ -7,6 +7,8 @@ format:
     toc: false
 ---
 
+<div style="color:#212529; font-weight:500">
+
 ![](marathi%20banner.jpg)
 
 ------------------------------------------------------------------------
